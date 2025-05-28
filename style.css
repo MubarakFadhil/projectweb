@@ -1,0 +1,15 @@
+.tanpa-bootstrap {
+    background-color: black;
+    padding: 20px;
+    color: white;
+    font-size: larger;
+    border: none;
+    font-style: italic;
+    border-radius: 10px;
+}
+
+.tanpa-bootstrap:hover {
+    transition-delay: 2,;
+    color: aqua;
+    background-color: brown;
+}
